@@ -141,28 +141,28 @@ ________________________________________________
 
 📊 Generated Visualizations (PNG Files)
 The project created six key charts, saved as high-resolution PNG files:
-1. Quarterly Sales Performance (2015-2018)
-https://charts/quarterly_sales_trend.png
+### 1. Quarterly Sales Performance (2015-2018)
+![Quarterly Sales Trend](charts/quarterly_sales_trend.png)
 Bar chart showing sales performance across all quarters (2015-2018).
 
-2. Product Category Distribution
-https://charts/category_performance.png
+### 2. Product Category Distribution
+![Category Performance](charts/category_performance.png)
 Pie chart displaying revenue distribution across Furniture, Office Supplies, and Technology.
 
-3. Customer RFM Segmentation
-https://charts/rfm_segmentation.png
+### 3. Customer RFM Segmentation
+![RFM Segmentation](charts/rfm_segmentation.png)
 Bar chart visualizing the 8 customer segments (Champions, Loyal, At Risk, etc.) from the RFM analysis.
 
-4. Monthly Sales Trend
-https://charts/monthly_trend_line.png
+### 4. Monthly Sales Trend
+![Monthly Trend Line](charts/monthly_trend_line.png)
 Line chart with a trend line illustrating sales over the last 24 months.
 
-5. Top Customers by Lifetime Value
-https://charts/top_customers.png
+### 5. Top Customers by Lifetime Value
+![Top Customers](charts/top_customers.png)
 Horizontal bar chart ranking the top 10 customers by Lifetime Value (LTV).
 
- 6. Shipping Mode Performance
-https://charts/shipping_performance.png
+### 6. Shipping Mode Performance
+![Shipping Performance](charts/shipping_performance.png)
 Dual chart comparing shipping mode volume (pie) and average speed (bar).
 ________________________________________________
 
